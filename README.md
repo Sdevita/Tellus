@@ -13,7 +13,7 @@ The sample app layers its presentation through MVI presentation pattern.
    * [Material design](https://material.io/design)
 
 * Tech/Tools
-    * [Kotlin](https://kotlinlang.org/) 100% coverage
+    * [Kotlin](https://kotlinlang.org/) 60% coverage
     * [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) and [Flow](https://developer.android.com/kotlin/flow) for async operations
     * Koin for dependency injection
     * [Jetpack](https://developer.android.com/jetpack)
